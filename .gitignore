@@ -1,0 +1,7 @@
+
+*.csv
+title_inventors_applicant/
+.env
+patent_data/
+patent_checkpoints/
+__pycache__/
