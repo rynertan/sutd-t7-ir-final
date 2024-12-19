@@ -1,7 +1,7 @@
 # SUTD T7 IR Project
 
 ### Information about dataset
-[Patent file structure](patent_file_structure.md)
+[Patent file structure](patent_file_structure.md) < br / >
 [Data Analysis](data-analysis.md)
 
 
@@ -19,3 +19,7 @@ python eval2.py
 ```bash
 python llama_pinecone_bm25_new.py
 ```
+< br / >
+< br / >
+< br / >
+Evaluation dataset, original dataset and API keys will be provided upon request.
