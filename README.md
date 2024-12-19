@@ -1,6 +1,9 @@
 # SUTD T7 IR Project
 
-Patent file structure
+### Information about dataset
+[Patent file structure](patent_file_structure.md)
+[Data Analysis](data-analysis.md)
+
 
 ## Steps to run
 1. Install requirements.txt
