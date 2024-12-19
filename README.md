@@ -6,11 +6,11 @@
 
 
 ## Steps to run
-1. Install requirements.txt
+1. Install [requirements.txt](requirements.txt)
 ```bash
 pip install -r requirements.txt
 ```
-2. Run retriever evaluation
+2. Run [retriever evaluation](eval2.py)
 ```bash
 python eval2.py
 ```
